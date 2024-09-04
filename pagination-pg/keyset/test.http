@@ -1,0 +1,8 @@
+### Get products
+GET http://localhost:8080/products?limit=4
+
+### Get products
+GET http://localhost:8080/products?last_id=4&limit=4
+
+### Get products
+GET http://localhost:8080/products?last_id=8&limit=4
