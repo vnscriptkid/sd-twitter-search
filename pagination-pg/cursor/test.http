@@ -1,0 +1,5 @@
+### Get users
+GET http://localhost:8080/users
+
+### Get users with cursor
+GET http://localhost:8080/users?cursor_id=cursor_1&limit=2
